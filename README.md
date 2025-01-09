@@ -1,7 +1,7 @@
 
 <h2 align='center'> <i>Hello, World!</h2>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lee-roger&show_icons=true&title_color=#61dafb&text_color=#ffffff&bg_color=#282c34&border_radius=10"  width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lee-roger&show_icons=true&icon_color=61dafb&title_color=61dafb&text_color=ffffff&bg_color=282c34&hide_border=true"  width="400">
 
 _Hello there this is **Hongye Lee**.  I love to code in Python and Java.Welcome to my code world😆_
 * 🐱 like cat
