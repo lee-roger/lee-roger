@@ -1,7 +1,7 @@
 
 <h2 align='center'> <i>Hello, World!</h2>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lee-roger&show_icons=true&theme=radical"  width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lee-roger&show_icons=true&title_color=#61dafb&text_color=#ffffff&bg_color=#282c34&border_radius=10"  width="400">
 
 _Hello there this is **Hongye Lee**.  I love to code in Python and Java.Welcome to my code world😆_
 * 🐱 like cat
@@ -23,7 +23,7 @@ _Hello there this is **Hongye Lee**.  I love to code in Python and Java.Welcome 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-roger&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-roger&theme=react&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
