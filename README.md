@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lee-roger&show_icons=true&icon_color=61dafb&title_color=61dafb&text_color=ffffff&bg_color=282c34&hide_border=true"  width="400">
 
-_Hello there this is **Hongye Lee**.  I love to code in Python and Java.Welcome to my code world😆_
+_Hello there this is **Roger Lee**.  I love to code in Python and Java.Welcome to my code world😆_
 * 🐱 like cat
 * 🌆 like sunset
 * :four_leaf_clover: I'm currently learning Everything I like
